@@ -4,116 +4,116 @@ Here you will find images that fit the colorscheme catppuccin.
 
 | **Abstract**                                          |
 | ----------------------------------------------------- |
-| ![abstract](catppuccin/abstract.png)                 |
+| ![abstract](./abstract.png)                 |
 
 | **Anime Skull**                                       |
 | ----------------------------------------------------- |
-| ![anime-skull](catppuccin/anime-skull.png)          |
+| ![anime-skull](./anime-skull.png)          |
 
 | **Arch Black**                                       |
 | ----------------------------------------------------- |
-| ![arch-black](catppuccin/arch-black.png)            |
+| ![arch-black](./arch-black.png)            |
 
 | **Arch Chan**                                        |
 | ----------------------------------------------------- |
-| ![arch-chan](catppuccin/arch-chan.png)              |
+| ![arch-chan](./arch-chan.png)              |
 
 | **Arch Logo**                                        |
 | ----------------------------------------------------- |
-| ![arch-logo](catppuccin/arch-logo.png)              |
+| ![arch-logo](./arch-logo.png)              |
 
 | **Asteroid Miner**                                   |
 | ----------------------------------------------------- |
-| ![Asteroid_Miner](catppuccin/Asteroid_Miner.png)    |
+| ![Asteroid_Miner](./Asteroid_Miner.png)    |
 
 | **Baby Star**                                        |
 | ----------------------------------------------------- |
-| ![baby-star](catppuccin/baby-star.png)              |
+| ![baby-star](./baby-star.png)              |
 
 | **Bento**                                            |
 | ----------------------------------------------------- |
-| ![bento](catppuccin/bento.png)                      |
+| ![bento](./bento.png)                      |
 
 | **Black Hole**                                       |
 | ----------------------------------------------------- |
-| ![black-hole](catppuccin/black-hole.png)            |
+| ![black-hole](./black-hole.png)            |
 
 | **Cafe**                                             |
 | ----------------------------------------------------- |
-| ![cafe](catppuccin/cafe.jpg)                        |
+| ![cafe](./cafe.jpg)                        |
 
 | **Car 2**                                           |
 | ----------------------------------------------------- |
-| ![car-2](catppuccin/car-2.png)                      |
+| ![car-2](./car-2.png)                      |
 
 | **Doom**                                             |
 | ----------------------------------------------------- |
-| ![doom](catppuccin/doom.png)                        |
+| ![doom](./doom.png)                        |
 
 | **Dragon**                                           |
 | ----------------------------------------------------- |
-| ![dragon](catppuccin/dragon.png)                    |
+| ![dragon](./dragon.png)                    |
 
 | **Flowers**                                          |
 | ----------------------------------------------------- |
-| ![flowers](catppuccin/flowers.png)                  |
+| ![flowers](./flowers.png)                  |
 
 | **Flowers 2**                                        |
 | ----------------------------------------------------- |
-| ![flowers2](catppuccin/flowers2.png)                |
+| ![flowers2](./flowers2.png)                |
 
 | **Game**                                             |
 | ----------------------------------------------------- |
-| ![game](catppuccin/game.png)                        |
+| ![game](./game.png)                        |
 
 | **Hyprland Logo**                                    |
 | ----------------------------------------------------- |
-| ![hyprland-logo](catppuccin/hyprland-logo.png)      |
+| ![hyprland-logo](./hyprland-logo.png)      |
 
 | **Lofi**                                             |
 | ----------------------------------------------------- |
-| ![lofi](catppuccin/lofi.jpeg)                       |
+| ![lofi](./lofi.jpeg)                       |
 
 | **Mars**                                            |
 | ----------------------------------------------------- |
-| ![mars](catppuccin/mars.png)                        |
+| ![mars](./mars.png)                        |
 
 | **Parking**                                          |
 | ----------------------------------------------------- |
-| ![parking](catppuccin/parking.jpg)                  |
+| ![parking](./parking.jpg)                  |
 
 | **Quasar**                                           |
 | ----------------------------------------------------- |
-| ![quasar](catppuccin/quasar.png)                    |
+| ![quasar](./quasar.png)                    |
 
 | **Retro Mario**                                      |
 | ----------------------------------------------------- |
-| ![retro-mario](catppuccin/retro-mario.png)         |
+| ![retro-mario](./retro-mario.png)         |
 
 | **S4vitar**                                         |
 | ----------------------------------------------------- |
-| ![s4vitar](catppuccin/s4vitar.png)                 |
+| ![s4vitar](./s4vitar.png)                 |
 
 | **Sakura**                                           |
 | ----------------------------------------------------- |
-| ![sakura](catppuccin/sakura.png)                    |
+| ![sakura](./sakura.png)                    |
 
 | **Skull**                                            |
 | ----------------------------------------------------- |
-| ![skull](catppuccin/skull.png)                      |
+| ![skull](./skull.png)                      |
 
 | **Sky**                                              |
 | ----------------------------------------------------- |
-| ![sky](catppuccin/sky.png)                          |
+| ![sky](./sky.png)                          |
 
 | **Spooky Spill**                                     |
 | ----------------------------------------------------- |
-| ![spooky_spill](catppuccin/spooky_spill.jpg)        |
+| ![spooky_spill](./spooky_spill.jpg)        |
 
 | **Waves**                                           |
 | ----------------------------------------------------- |
-| ![waves](catppuccin/waves.jpg)                      |
+| ![waves](./waves.jpg)                      |
 
 | **Windows Error**                                   |
 | ----------------------------------------------------- |
-| ![windows-error](catppuccin/windows-error.jpg)      |
+| ![windows-error](./windows-error.jpg)      |

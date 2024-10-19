@@ -4,4 +4,4 @@ Here you will find delightful animated images.
 
 | **Ghost Town**                                       |
 | ----------------------------------------------------- |
-| ![ghost-town](gifs/ghost-town.gif)                  |
+| ![ghost-town](./ghost-town.gif)                  |

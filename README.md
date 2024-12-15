@@ -1,6 +1,7 @@
 _all of my personal walls in one repo. ✨_
 
 #### Contents
+- [Anime Collection](catppuccin/README.md): Images that fit the anime, game or anime-ish.
 - [Catppuccin Collection](catppuccin/README.md): Images that fit the colorscheme catppuccin.
 - [GIFs Collection](gifs/README.md): A collection of delightful animated images.
 - [Miscellaneous Images](misc/README.md): Unique images that don’t fit into other categories.

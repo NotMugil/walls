@@ -1,119 +1,159 @@
 # Catppuccin Collection
 
-Here you will find images that fit the colorscheme catppuccin.
+Here you will find images that fit the Catppuccin colorscheme.
 
 | **Abstract**                                          |
 | ----------------------------------------------------- |
-| ![abstract](./abstract.png)                 |
+| ![abstract](./abstract.png)                           |
 
 | **Anime Skull**                                       |
 | ----------------------------------------------------- |
-| ![anime-skull](./anime-skull.png)          |
+| ![anime-skull](./anime-skull.png)                     |
 
-| **Arch Black**                                       |
+| **Arch Black**                                        |
 | ----------------------------------------------------- |
-| ![arch-black](./arch-black.png)            |
+| ![arch-black](./arch-black.png)                       |
 
-| **Arch Chan**                                        |
+| **Arch Chan**                                         |
 | ----------------------------------------------------- |
-| ![arch-chan](./arch-chan.png)              |
+| ![arch-chan](./arch-chan.png)                         |
 
-| **Arch Logo**                                        |
+| **Arch Logo**                                         |
 | ----------------------------------------------------- |
-| ![arch-logo](./arch-logo.png)              |
+| ![arch-logo](./arch-logo.png)                         |
 
-| **Asteroid Miner**                                   |
+| **Asteroid Miner**                                    |
 | ----------------------------------------------------- |
-| ![Asteroid_Miner](./Asteroid_Miner.png)    |
+| ![Asteroid_Miner](./Asteroid_Miner.png)               |
 
-| **Baby Star**                                        |
+| **Baby Star**                                         |
 | ----------------------------------------------------- |
-| ![baby-star](./baby-star.png)              |
+| ![baby-star](./baby-star.png)                         |
 
-| **Bento**                                            |
+| **Bento**                                             |
 | ----------------------------------------------------- |
-| ![bento](./bento.png)                      |
+| ![bento](./bento.png)                                 |
 
-| **Black Hole**                                       |
+| **Black Hole**                                        |
 | ----------------------------------------------------- |
-| ![black-hole](./black-hole.png)            |
+| ![black-hole](./black-hole.png)                       |
 
-| **Cafe**                                             |
+| **Cafe**                                              |
 | ----------------------------------------------------- |
-| ![cafe](./cafe.jpg)                        |
+| ![cafe](./cafe.jpg)                                   |
 
-| **Car 2**                                           |
+| **Car 2**                                             |
 | ----------------------------------------------------- |
-| ![car-2](./car-2.png)                      |
+| ![car-2](./car-2.png)                                 |
 
-| **Doom**                                             |
+| **Catppuccin Gradient 1**                             |
 | ----------------------------------------------------- |
-| ![doom](./doom.png)                        |
+| ![catppuccin-gradient-1](./catppuccin-gradient-1.png) |
 
-| **Dragon**                                           |
+| **CleanShot**                                         |
 | ----------------------------------------------------- |
-| ![dragon](./dragon.png)                    |
+| ![CleanShot_2023-02-20_at_19.54.37](./CleanShot_2023-02-20_at_19.54.37.png) |
 
-| **Flowers**                                          |
+| **Doom**                                              |
 | ----------------------------------------------------- |
-| ![flowers](./flowers.png)                  |
+| ![doom](./doom.png)                                   |
 
-| **Flowers 2**                                        |
+| **Dragon**                                            |
 | ----------------------------------------------------- |
-| ![flowers2](./flowers2.png)                |
+| ![dragon](./dragon.png)                               |
 
-| **Game**                                             |
+| **Flowers**                                           |
 | ----------------------------------------------------- |
-| ![game](./game.png)                        |
+| ![flowers](./flowers.png)                             |
 
-| **Hyprland Logo**                                    |
+| **Flowers 2**                                         |
 | ----------------------------------------------------- |
-| ![hyprland-logo](./hyprland-logo.png)      |
+| ![flowers2](./flowers2.png)                           |
 
-| **Lofi**                                             |
+| **Game**                                              |
 | ----------------------------------------------------- |
-| ![lofi](./lofi.jpeg)                       |
+| ![game](./game.png)                                   |
 
-| **Mars**                                            |
+| **Hyprland Logo**                                     |
 | ----------------------------------------------------- |
-| ![mars](./mars.png)                        |
+| ![hyprland-logo](./hyprland-logo.png)                 |
 
-| **Parking**                                          |
+| **Image**                                             |
 | ----------------------------------------------------- |
-| ![parking](./parking.jpg)                  |
+| ![image](./image.png)                                 |
 
-| **Quasar**                                           |
+| **Lofi**                                              |
 | ----------------------------------------------------- |
-| ![quasar](./quasar.png)                    |
+| ![lofi](./lofi.jpeg)                                  |
 
-| **Retro Mario**                                      |
+| **MacOS Wallpaper**                                   |
 | ----------------------------------------------------- |
-| ![retro-mario](./retro-mario.png)         |
+| ![macos-wallpaper](./macos-wallpaper.png)             |
 
-| **S4vitar**                                         |
+| **Mars**                                              |
 | ----------------------------------------------------- |
-| ![s4vitar](./s4vitar.png)                 |
+| ![mars](./mars.png)                                   |
 
-| **Sakura**                                           |
+| **OL**                                                |
 | ----------------------------------------------------- |
-| ![sakura](./sakura.png)                    |
+| ![ol](./ol.png)                                       |
 
-| **Skull**                                            |
+| **Output 1**                                          |
 | ----------------------------------------------------- |
-| ![skull](./skull.png)                      |
+| ![output1](./output1.png)                             |
 
-| **Sky**                                              |
+| **Parking**                                           |
 | ----------------------------------------------------- |
-| ![sky](./sky.png)                          |
+| ![parking](./parking.jpg)                             |
 
-| **Spooky Spill**                                     |
+| **Quasar**                                            |
 | ----------------------------------------------------- |
-| ![spooky_spill](./spooky_spill.jpg)        |
+| ![quasar](./quasar.png)                               |
 
-| **Waves**                                           |
+| **Result**                                            |
 | ----------------------------------------------------- |
-| ![waves](./waves.jpg)                      |
+| ![result](./result.png)                               |
 
-| **Windows Error**                                   |
+| **Result 1**                                          |
 | ----------------------------------------------------- |
-| ![windows-error](./windows-error.jpg)      |
+| ![result1](./result1.png)                             |
+
+| **Retro Mario**                                       |
+| ----------------------------------------------------- |
+| ![retro-mario](./retro-mario.png)                     |
+
+| **Rice Catppuccin**                                   |
+| ----------------------------------------------------- |
+| ![rice_catppuccin](./rice_catppuccin.png)             |
+
+| **S4vitar**                                           |
+| ----------------------------------------------------- |
+| ![s4vitar](./s4vitar.png)                             |
+
+| **Sakura**                                            |
+| ----------------------------------------------------- |
+| ![sakura](./sakura.png)                               |
+
+| **Skull**                                             |
+| ----------------------------------------------------- |
+| ![skull](./skull.png)                                 |
+
+| **Sky**                                               |
+| ----------------------------------------------------- |
+| ![sky](./sky.png)                                     |
+
+| **Spooky Spill**                                      |
+| ----------------------------------------------------- |
+| ![spooky_spill](./spooky_spill.jpg)                   |
+
+| **Wallpaper**                                         |
+| ----------------------------------------------------- |
+| ![wallpaper](./wallpaper.png)                         |
+
+| **Waves**                                             |
+| ----------------------------------------------------- |
+| ![waves](./waves.jpg)                                 |
+
+| **Windows Error**                                     |
+| ----------------------------------------------------- |
+| ![windows-error](./windows-error.jpg)                 |

@@ -56,4 +56,28 @@ Here you will find images anime or anime-ish.
 
 | **Wallhaven 7p8pr3**                                  |
 | ----------------------------------------------------- |
-| ![wallhaven-7p8pr3](./
+| ![wallhaven-7p8pr3](./wallhaven-7p8pr3.jpg)           |
+
+| **Wallhaven o5oxvl**                                  |
+| ----------------------------------------------------- |
+| ![wallhaven-o5oxvl](./wallhaven-o5oxvl.jpg)           |
+
+| **Wallhaven p9ep13**                                  |
+| ----------------------------------------------------- |
+| ![wallhaven-p9ep13](./wallhaven-p9ep13.png)           |
+
+| **Wallhaven qzx1wr**                                  |
+| ----------------------------------------------------- |
+| ![wallhaven-qzx1wr](./wallhaven-qzx1wr.jpg)           |
+
+| **Wallhaven x6ql5v**                                  |
+| ----------------------------------------------------- |
+| ![wallhaven-x6ql5v](./wallhaven-x6ql5v.jpg)           |
+
+| **WWA**                                               |
+| ----------------------------------------------------- |
+| ![wwa](./wwa.jpg)                                     |
+
+| **Yayayayayaya**                                      |
+| ----------------------------------------------------- |
+| ![yayayayayaya](./yayayayayaya.jpg)                   |

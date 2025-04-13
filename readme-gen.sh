@@ -1,16 +1,14 @@
 #!/bin/sh
 
-filename="README-gen.md"
+filename="README.md"
 
-> $filename
-
-echo -e "Collection \n \n" >> $filename
-
-# find . -type d -not -path '*/.*' >> $filename
-# echo -e "\n \n"
+echo -e "_all of my personal walls in one repo. ✨_ \n" > $filename
+echo "#### Contents" >> $filename
 
 find "$PWD" -type d -not -path '*/.*' | while read dir; do
 
+	echo -e "- [$(basename "$dir") collection]($(basename "$dir")/README.md)" >> $filename
+	
 	if [ "$dir" != "$PWD" ]; then 
 		walls=$(find "$dir" -maxdepth 1 -type f -not -path "*.md" -printf '%P\n')
 
@@ -34,3 +32,5 @@ find "$PWD" -type d -not -path '*/.*' | while read dir; do
    fi 
 
 done
+
+echo -e "\n #### Resources\ncheck out these websites where i find my wallpapers.\n - [r/unixporn](https://www.reddit.com/r/unixporn/) \n - [uhdpaper](https://www.uhdpaper.com/) \n - [alphacoders](https://alphacoders.com/) \n - [wallpaper flare](https://www.wallpaperflare.com/) \n - [pinterest](https://in.pinterest.com/) \n - [wallhaven.cc](https://wallhaven.cc/)" >> $filename

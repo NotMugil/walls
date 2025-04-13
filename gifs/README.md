@@ -1,7 +1,8 @@
-# GIFs Collection
+# GIFS COLLECTION
+This folder contains gifs wallpapers 
 
-Here you will find delightful animated images.
+| **ghost-town.gif** | 
+|------------------------------------------|
+| ![ ghost-town.gif ](./ghost-town.gif) | 
 
-| **Ghost Town**                                       |
-| ----------------------------------------------------- |
-| ![ghost-town](./ghost-town.gif)                  |
+

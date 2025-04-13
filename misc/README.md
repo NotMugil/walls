@@ -1,15 +1,18 @@
-# Miscellaneous Images
+# MISC COLLECTION
+This folder contains misc wallpapers 
 
-Here you will find unique images that don’t fit into other categories.
+| **dungeon.png** | 
+|------------------------------------------|
+| ![ dungeon.png ](./dungeon.png) | 
 
-| **Dungeon**                                          |
-| ----------------------------------------------------- |
-| ![dungeon](./dungeon.png)                         |
 
-| **Evening Sky**                                      |
-| ----------------------------------------------------- |
-| ![evening-sky](./evening-sky.png)                |
+| **evening-sky.png** | 
+|------------------------------------------|
+| ![ evening-sky.png ](./evening-sky.png) | 
 
-| **Wallhaven-7pzkqv**                                      |
-| ----------------------------------------------------- |
-| ![wallhaven-7pzkqv](./wallhaven-7pzkqv.jpg)                |
+
+| **wallhaven-7pzkqv.jpg** | 
+|------------------------------------------|
+| ![ wallhaven-7pzkqv.jpg ](./wallhaven-7pzkqv.jpg) | 
+
+

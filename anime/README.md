@@ -1,83 +1,108 @@
-# Anime Collection
+# ANIME COLLECTION
+This folder contains anime wallpapers 
 
-Here you will find images anime or anime-ish.
+| **Spring_Serenity_girl.png** | 
+|------------------------------------------|
+| ![ Spring_Serenity_girl.png ](./Spring_Serenity_girl.png) | 
 
-| **Anime Girl**                                        |
-| ----------------------------------------------------- |
-| ![anime-gurl](./anime-gurl.jpg)                       |
 
-| **Anime Van**                                         |
-| ----------------------------------------------------- |
-| ![anime-van](./anime-van.png)                         |
+| **anime-gurl.jpg** | 
+|------------------------------------------|
+| ![ anime-gurl.jpg ](./anime-gurl.jpg) | 
 
-| **Blue Mountain**                                     |
-| ----------------------------------------------------- |
-| ![blue_mountain](./blue_mountain.png)                  |
 
-| **Blue Girl**                                         |
-| ----------------------------------------------------- |
-| ![bluegirl](./bluegirl.jpg)                           |
+| **anime-van.png** | 
+|------------------------------------------|
+| ![ anime-van.png ](./anime-van.png) | 
 
-| **Dark Window**                                       |
-| ----------------------------------------------------- |
-| ![dark_window](./dark_window.png)                     |
 
-| **Hair**                                              |
-| ----------------------------------------------------- |
-| ![hair](./hair.jpg)                                   |
+| **blue_mountain.png** | 
+|------------------------------------------|
+| ![ blue_mountain.png ](./blue_mountain.png) | 
 
-| **Honkai**                                            |
-| ----------------------------------------------------- |
-| ![honkai](./honkai.jpg)                               |
 
-| **Japan Street**                                      |
-| ----------------------------------------------------- |
-| ![japan_street](./japan_street.png)                   |
+| **bluegirl.jpg** | 
+|------------------------------------------|
+| ![ bluegirl.jpg ](./bluegirl.jpg) | 
 
-| **Spring Serenity Girl**                              |
-| ----------------------------------------------------- |
-| ![Spring_Serenity_girl](./Spring_Serenity_girl.png)    |
 
-| **Straw Hat Zombies**                                 |
-| ----------------------------------------------------- |
-| ![straw-hat-zombies](./straw-hat-zombies.jpg)         |
+| **dark_window.png** | 
+|------------------------------------------|
+| ![ dark_window.png ](./dark_window.png) | 
 
-| **Sun God Nika**                                      |
-| ----------------------------------------------------- |
-| ![sun-god-nika](./sun-god-nika.jpg)                   |
 
-| **Wallhaven 2ymp5g**                                  |
-| ----------------------------------------------------- |
-| ![wallhaven-2ymp5g](./wallhaven-2ymp5g.png)          |
+| **hair.jpg** | 
+|------------------------------------------|
+| ![ hair.jpg ](./hair.jpg) | 
 
-| **Wallhaven 6d88kq**                                  |
-| ----------------------------------------------------- |
-| ![wallhaven-6d88kq](./wallhaven-6d88kq.jpg)          |
 
-| **Wallhaven 7p8pr3**                                  |
-| ----------------------------------------------------- |
-| ![wallhaven-7p8pr3](./wallhaven-7p8pr3.jpg)           |
+| **honkai.jpg** | 
+|------------------------------------------|
+| ![ honkai.jpg ](./honkai.jpg) | 
 
-| **Wallhaven o5oxvl**                                  |
-| ----------------------------------------------------- |
-| ![wallhaven-o5oxvl](./wallhaven-o5oxvl.jpg)           |
 
-| **Wallhaven p9ep13**                                  |
-| ----------------------------------------------------- |
-| ![wallhaven-p9ep13](./wallhaven-p9ep13.png)           |
+| **japan_street.png** | 
+|------------------------------------------|
+| ![ japan_street.png ](./japan_street.png) | 
 
-| **Wallhaven qzx1wr**                                  |
-| ----------------------------------------------------- |
-| ![wallhaven-qzx1wr](./wallhaven-qzx1wr.jpg)           |
 
-| **Wallhaven x6ql5v**                                  |
-| ----------------------------------------------------- |
-| ![wallhaven-x6ql5v](./wallhaven-x6ql5v.jpg)           |
+| **straw-hat-zombies.jpg** | 
+|------------------------------------------|
+| ![ straw-hat-zombies.jpg ](./straw-hat-zombies.jpg) | 
 
-| **WWA**                                               |
-| ----------------------------------------------------- |
-| ![wwa](./wwa.jpg)                                     |
 
-| **Yayayayayaya**                                      |
-| ----------------------------------------------------- |
-| ![yayayayayaya](./yayayayayaya.jpg)                   |
+| **sun-god-nika.jpg** | 
+|------------------------------------------|
+| ![ sun-god-nika.jpg ](./sun-god-nika.jpg) | 
+
+
+| **wallhaven-2ymp5g.png** | 
+|------------------------------------------|
+| ![ wallhaven-2ymp5g.png ](./wallhaven-2ymp5g.png) | 
+
+
+| **wallhaven-6d88kq.jpg** | 
+|------------------------------------------|
+| ![ wallhaven-6d88kq.jpg ](./wallhaven-6d88kq.jpg) | 
+
+
+| **wallhaven-7p8pr3.jpg** | 
+|------------------------------------------|
+| ![ wallhaven-7p8pr3.jpg ](./wallhaven-7p8pr3.jpg) | 
+
+
+| **wallhaven-o5oxvl.jpg** | 
+|------------------------------------------|
+| ![ wallhaven-o5oxvl.jpg ](./wallhaven-o5oxvl.jpg) | 
+
+
+| **wallhaven-p96293.jpg** | 
+|------------------------------------------|
+| ![ wallhaven-p96293.jpg ](./wallhaven-p96293.jpg) | 
+
+
+| **wallhaven-p9ep13.png** | 
+|------------------------------------------|
+| ![ wallhaven-p9ep13.png ](./wallhaven-p9ep13.png) | 
+
+
+| **wallhaven-qzx1wr.jpg** | 
+|------------------------------------------|
+| ![ wallhaven-qzx1wr.jpg ](./wallhaven-qzx1wr.jpg) | 
+
+
+| **wallhaven-x6ql5v.jpg** | 
+|------------------------------------------|
+| ![ wallhaven-x6ql5v.jpg ](./wallhaven-x6ql5v.jpg) | 
+
+
+| **wwa.jpg** | 
+|------------------------------------------|
+| ![ wwa.jpg ](./wwa.jpg) | 
+
+
+| **yayayayayaya.jpg** | 
+|------------------------------------------|
+| ![ yayayayayaya.jpg ](./yayayayayaya.jpg) | 
+
+

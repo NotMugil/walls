@@ -1,16 +1,17 @@
-_all of my personal walls in one repo. ✨_
+_all of my personal walls in one repo. ✨_ 
 
 #### Contents
-- [Anime Collection](catppuccin/README.md): Images that fit the anime, game or anime-ish.
-- [Catppuccin Collection](catppuccin/README.md): Images that fit the colorscheme catppuccin.
-- [GIFs Collection](gifs/README.md): A collection of delightful animated images.
-- [Miscellaneous Images](misc/README.md): Unique images that don’t fit into other categories.
+- [walls collection](walls/README.md)
+- [anime collection](anime/README.md)
+- [catppuccin collection](catppuccin/README.md)
+- [gifs collection](gifs/README.md)
+- [misc collection](misc/README.md)
 
-#### Resources
+ #### Resources
 check out these websites where i find my wallpapers.
-- [r/unixporn](https://www.reddit.com/r/unixporn/)
-- [uhdpaper](https://www.uhdpaper.com/)
-- [alphacoders](https://alphacoders.com/)
-- [wallpaper flare](https://www.wallpaperflare.com/)
-- [pinterest](https://in.pinterest.com/)
-- [wallhaven.cc](https://wallhaven.cc/)
+ - [r/unixporn](https://www.reddit.com/r/unixporn/) 
+ - [uhdpaper](https://www.uhdpaper.com/) 
+ - [alphacoders](https://alphacoders.com/) 
+ - [wallpaper flare](https://www.wallpaperflare.com/) 
+ - [pinterest](https://in.pinterest.com/) 
+ - [wallhaven.cc](https://wallhaven.cc/)

@@ -1,11 +1,13 @@
 _all of my personal walls in one repo. ✨_ 
 
 #### Contents
-- [walls collection](walls/README.md)
 - [anime collection](anime/README.md)
+- [flowers collection](flowers/README.md)
+- [pixelart collection](pixelart/README.md)
 - [catppuccin collection](catppuccin/README.md)
-- [gifs collection](gifs/README.md)
-- [misc collection](misc/README.md)
+- [landscape collection](landscape/README.md)
+- [lain collection](lain/README.md)
+- [minimalistic collection](minimalistic/README.md)
 
  #### Resources
 check out these websites where i find my wallpapers.

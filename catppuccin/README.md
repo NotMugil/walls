@@ -1,5 +1,6 @@
-# CATPPUCCIN COLLECTION
-This folder contains catppuccin wallpapers 
+# catppuccin collection
+
+ This folder contains catppuccin wallpapers 
 
 | **Asteroid_Miner.png** | 
 |------------------------------------------|

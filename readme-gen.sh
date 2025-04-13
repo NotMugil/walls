@@ -5,7 +5,7 @@ filename="README.md"
 echo -e "_all of my personal walls in one repo. ✨_ \n" > $filename
 echo "#### Contents" >> $filename
 
-find "$PWD" -type d -not -path '*/.*' | while read dir; do
+find "$PWD" -type d -not -path '*/.*' -not -wholename "$PWD" | while read dir; do
 
 	echo -e "- [$(basename "$dir") collection]($(basename "$dir")/README.md)" >> $filename
 	
@@ -16,9 +16,8 @@ find "$PWD" -type d -not -path '*/.*' | while read dir; do
 	if [ ! -z "$walls" ]; then 
 		dirfilename="$dir/README.md"
 
-	declare -u string="# $(basename "$dir") collection"
- 	echo -e ${string//-/_} > $dirfilename
-	echo -e "This folder contains $(basename "$dir") wallpapers \n" >> "$dirfilename"
+	echo "# $(basename "$dir") collection" > $dirfilename
+	echo -e "\n This folder contains $(basename "$dir") wallpapers \n" >> "$dirfilename"
 	
 	for wall in $walls; do
 		echo "| **$(basename "$wall")** | "  >> $dirfilename
